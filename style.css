@@ -2,5 +2,8 @@ img{
     width: 300px;
     height: 245px;
     float: right;
-    margin-left: 40px;
+}
+
+.float-container{
+    border: 3px dashed black;
 }
